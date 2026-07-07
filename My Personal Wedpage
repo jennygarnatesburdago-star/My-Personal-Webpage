@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> My Intruduction</title>
+</head>
+<body>
+
+<h1>Welcome to My Wedpage</h1>
+
+<hr>
+
+<h2>Who I am</h2>
+<p>
+hello!My name is <b>Jenny Garnates Burdago 16 years old from Brgy Carabalan Himamaylan City Negros Occ. But now i'm still on Blk 5 Lot 23 St. Dominic's Place Subdivision, Sudtunggan Road, Brgy. Basak, Lapu lapu City Cebu Philippines. I am a student who is eager to learn 
+new things, especially about computers and web development. I enjoy improving my skills and gaining knowledge that will help me in tha future.
+
+<h2>My intersts and Hobbies</h2>
+
+My hobbies include lestining to music like padaba taka this is my fevorate song, watching movies korean drama, manix family and shorts reels in the facebook vedio ,browsing the internet, read book like nobela and spending time with family and friends.<br>
+I also enjoy learning about technology and practicing basic HTML.
+</p>
+
+<h2>My Personal and Career Goals</h2>
+<p>
+My goal is to finish my studies successfully and become a skilled IT professional.<i>I want to continue learning</i> and build wedsites and other useful computers applications that can help people.
+</p>
+
+<hr> 
+
+<p>
+<b>Thank you for visiting my webpage!</b>
+</p>
+
+</body>
+</html>
